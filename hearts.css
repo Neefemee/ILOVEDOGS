@@ -1,0 +1,123 @@
+body{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align: center;
+    min-width: 100%;
+    max-width: 100%;
+    background-color: transparent;
+    text-decoration: rgba(247, 217, 217, 0.795);
+    text-emphasis-color: white;
+    background-image: url(PetMemorial.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}
+
+a{
+     color: red;
+}
+
+.caption{
+     font-size: 30px;
+}
+
+#spoil{
+     font-size: 20px;
+}
+
+.top {
+     justify-content: right;
+     justify-content: space-evenly;
+     opacity: 0.5;
+}
+ 
+.mainlogo {
+   width: 150px;
+}
+ul .frames {
+    width: 450px;
+    font-stretch: wider;
+    display: flex;
+    list-style-type: none;
+    scroll-behavior: auto;
+    cursor: pointer;
+    background-origin: padding-box;
+    box-sizing: border-box;
+}
+#inthepress{
+    justify-content: right;
+     justify-content: space-evenly;
+}
+.press{
+    display: flex;
+    align-items: unset;
+    justify-content: unset;
+}
+height: auto;
+    max-width: 100%;
+}
+img {
+    border-top-width: 0px;
+    border-right-width: 0px;
+    border-bottom-width: 0px;
+    border-left-width: 0px;
+    border-top-style: solid;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-left-style: solid;
+    width: 143px;
+}
+
+ul{
+    display: flex;
+    list-style-type: none;
+    margin: 2rem;
+}
+.frames {
+    cursor: pointer;
+    height: 400px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+    width: 602px;  
+}
+
+.see{
+    background-color: rgba(247, 217, 217, 0.795);
+}
+
+.GET {
+    background-color: white;
+    color:red;
+    border-color: red;
+    box-sizing: border-box;
+}
+#first{
+    color: red;
+    line-height: 2em;
+}
+#email {
+    line-height: 2em;
+    margin-bottom: 2em;
+}
+#SUBSCRIBE {
+    background-color: red;
+    color: white;
+    line-height: 2em;   
+}
+#dlist{
+    justify-content: space-evenly;
+    text-align: center;
+    list-style-position: initial;
+}
+.IMPORTANT #submenu{
+    display: grid;
+}
+.IMPORTANT{
+    justify-content: right;
+     justify-content: space-evenly;
+}
+.shop{
+    flex-wrap: wrap;
+}
+.EVERYTHING{
+    background-color: palevioletred;
+}
